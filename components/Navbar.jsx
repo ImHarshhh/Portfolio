@@ -24,8 +24,8 @@ const Navbar = () => {
           <a href="#projects" className="text-gray-700 text-lg font-semibold hover:text-blue-600 transition-colors"> 
             Projects
           </a>
-          <a href="#contact" className="text-gray-700 text-lg font-semibold hover:text-blue-600 transition-colors">
-            Contact
+          <a href="#socials" className="text-gray-700 text-lg font-semibold hover:text-blue-600 transition-colors">
+            Connect
           </a>
         </nav>
 
