@@ -1,12 +1,24 @@
-# React + Vite
+# Harsh Chaudhari - Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This platform serves as a central hub to showcase my skills, projects, and experiences in software development.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[http://imharshhh.netlify.app]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+* **Clean & Modern UI:** A professional and aesthetically pleasing design built with React and Tailwind CSS.
+* **Smooth Navigation:** Seamless scrolling between sections for an enhanced user experience.
+* **Hero Section:** A captivating introduction with a personal touch and clear calls to action.
+* **About Me Timeline:** A visually engaging timeline detailing my academic journey and professional experiences.
+* **Projects Showcase:** Dedicated section to highlight key projects with brief descriptions and links to repositories.
+* **Skills Section:** (Implicit from Navbar, ensure this component is present) A detailed overview of my technical proficiencies.
+* **Contact Form:** A direct way to get in touch, powered by FormSubmit (no backend required!).
+* **Responsive Design:** Optimized for seamless viewing across various devices (desktops, tablets, and mobile phones).
+* **Sticky Navbar:** Navigation remains visible at the top of the screen as you scroll.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+* **React:** A JavaScript library for building user interfaces.
+* **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+* **FormSubmit:** A simple service to handle form submissions without a backend.
