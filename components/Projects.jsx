@@ -77,7 +77,7 @@ function Projects() {
 
             {/* Call to Action */}
             <a
-              href="#" 
+              href="https://github.com/ImHarshhh/UniVerse" 
               target="_blank"
               rel="noopener noreferrer"
               className="mt-4 inline-block bg-blue-600 text-white px-6 py-2 rounded-md hover:bg-blue-700 transition duration-300 font-medium text-sm"
