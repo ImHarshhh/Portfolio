@@ -20,7 +20,7 @@ function Contact() {
 
         {/* Right Side Form */}
         <div className="w-full md:w-1/2 p-8 sm:p-12 flex flex-col justify-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-blue-600 mb-4">Contact Us</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-blue-600 mb-4">Contact</h2>
           <p className="text-gray-600 mb-6">
             Have a question or just want to say hi? We'd love to hear from you.
           </p>

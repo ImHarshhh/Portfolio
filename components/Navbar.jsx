@@ -31,7 +31,7 @@ const Navbar = () => {
 
        
         <a href="#contact" className="hidden md:inline-block px-7 py-2.5 rounded-md bg-blue-600 text-white text-base font-semibold hover:bg-blue-700 transition-all">
-          Contact Us
+          Contact 
         </a>
       </div>
     </header>
