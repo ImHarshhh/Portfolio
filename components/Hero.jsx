@@ -1,4 +1,4 @@
-import photo from '../src/assets/harsh-image.jpg';
+import photo from '../src/assets/Gemini_Generated_Image_lar8ndlar8ndlar8 (1).jpg';
 
 function Hero() {
   return (
@@ -40,7 +40,7 @@ function Hero() {
               src={photo}
               alt="Harsh Chaudhari"
               className="w-full h-full object-cover"
-              style={{ objectPosition: 'center top' }} // <-- **THIS IS THE CRITICAL CHANGE**
+              style={{ objectPosition: 'center 7%' }}
             />
           </div>
         </div>
