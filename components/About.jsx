@@ -78,6 +78,18 @@ const About = () => {
           </div>
 
           {/* Add more timeline items as needed */}
+          <div className="mb-8 flex justify-between items-center w-full right-timeline">
+            <div className="order-1 w-5/12 hidden md:block"></div>
+            <div className="z-10 flex items-center order-1 bg-blue-600 shadow-xl w-8 h-8 rounded-full">
+              <h1 className="mx-auto font-semibold text-lg text-white">🚀</h1> {/* Icon */}
+            </div>
+            <div className="order-1 bg-white rounded-lg shadow-xl w-full md:w-5/12 px-6 py-4">
+              <h3 className="mb-3 font-bold text-gray-800 text-xl">SDE Intern at PlatinumRx</h3>
+              <p className="text-sm leading-snug tracking-wide text-gray-600">
+              Automated the end-to-end GRN workflow to improve procurement efficiency by 15% and reduce manual effort, implemented Elasticsearch-based auto search suggestions to boost PDP views by 20%, and contributed to building an internal procurement analytics dashboard that increased procurement rate by 18% and enhanced inventory management.              </p>
+              <p className="text-xs text-gray-500 mt-2">August 2025 - Ongoing</p>
+            </div>
+          </div>
 
         </div>
       </div>
